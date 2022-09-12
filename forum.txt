@@ -1,0 +1,7 @@
+What is forum ?
+=> An Internet forum, or message board, is an online discussion site where people can hold conversations in the form of posted messages.[1] They differ from chat rooms in that messages are often longer than one line of text, and are at least temporarily archived.
+
+
+
+What is Varchar ?
+ =>  As the name suggests, varchar means character data that is varying. Also known as Variable Character, it is an indeterminate length string data type. It can hold numbers, letters and special characters. 
